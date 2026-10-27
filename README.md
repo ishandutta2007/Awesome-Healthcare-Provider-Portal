@@ -73,45 +73,45 @@ The table below lists leading commercial Healthcare Provider Portals and Patient
 
 ## 🔓 Open-Source Patient & Provider Portals
 
-A curated collection of self-hosted, sovereign, and developer-friendly open-source patient portals, EHR modules, and personal health record (PHR) aggregators. **Sorted in descending order by GitHub Stars**:
+A curated collection of self-hosted, sovereign, and developer-friendly open-source patient portals, EHR modules, and personal health record (PHR) aggregators. **Sorted in descending order by GitHub_Stars**:
 
-- **[HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend)** [![GitHub stars](https://img.shields.io/github/stars/HospitalRun/hospitalrun-frontend?style=social&color=white)](https://github.com/HospitalRun/hospitalrun-frontend/stargazers)  
+- **[HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend)** [![GitHub_Stars](https://img.shields.io/github/stars/HospitalRun/hospitalrun-frontend?style=social&color=white)](https://github.com/HospitalRun/hospitalrun-frontend/stargazers)  
   🏥 Free, modern, and open-source hospital and patient management software designed for clinics and healthcare facilities in developing and low-resource environments. Features an intuitive patient intake portal, appointment scheduling, electronic medical records, laboratory orders, and billing workflows. Built with React and TypeScript.
 
-- **[OpenEMR](https://github.com/openemr/openemr)** [![GitHub stars](https://img.shields.io/github/stars/openemr/openemr?style=social&color=white)](https://github.com/openemr/openemr/stargazers)  
+- **[OpenEMR](https://github.com/openemr/openemr)** [![GitHub_Stars](https://img.shields.io/github/stars/openemr/openemr?style=social&color=white)](https://github.com/openemr/openemr/stargazers)  
   🛡️ The world’s most popular open-source electronic health records (EHR) and medical practice management solution (ONC Complete Ambulatory Certified, HIPAA compliant). Includes a fully featured native Patient Portal supporting online appointments, secure provider messaging, digital intake questionnaires, lab result downloads, and multi-factor authentication (MFA).
 
-- **[Fasten Health](https://github.com/fastenhealth/fasten-onprem)** [![GitHub stars](https://img.shields.io/github/stars/fastenhealth/fasten-onprem?style=social&color=white)](https://github.com/fastenhealth/fasten-onprem/stargazers)  
+- **[Fasten Health](https://github.com/fastenhealth/fasten-onprem)** [![GitHub_Stars](https://img.shields.io/github/stars/fastenhealth/fasten-onprem?style=social&color=white)](https://github.com/fastenhealth/fasten-onprem/stargazers)  
   🔒 An open-source, self-hosted, personal and family electronic medical record (EMR) aggregator. Acts as a unified sovereign patient portal that connects securely to over 100,000+ US healthcare providers and hospital systems (Epic, Cerner, Athenahealth, VA) using SMART on FHIR to pull, normalize, and visualize diagnostic reports, vitals, and treatment history locally.
 
-- **[Medplum](https://github.com/medplum/medplum)** [![GitHub stars](https://img.shields.io/github/stars/medplum/medplum?style=social&color=white)](https://github.com/medplum/medplum/stargazers)  
+- **[Medplum](https://github.com/medplum/medplum)** [![GitHub_Stars](https://img.shields.io/github/stars/medplum/medplum?style=social&color=white)](https://github.com/medplum/medplum/stargazers)  
   ⚡ Fast, open-source healthcare developer platform and patient portal framework built natively on HL7 FHIR. Provides pre-built React components (`@medplum/react`), compliant identity authentication, a high-performance FHIR datastore, automated clinical bots, and a white-label patient portal app for booking, communications, and telehealth.
 
-- **[OpenMRS](https://github.com/openmrs/openmrs-core)** [![GitHub stars](https://img.shields.io/github/stars/openmrs/openmrs-core?style=social&color=white)](https://github.com/openmrs/openmrs-core/stargazers)  
+- **[OpenMRS](https://github.com/openmrs/openmrs-core)** [![GitHub_Stars](https://img.shields.io/github/stars/openmrs/openmrs-core?style=social&color=white)](https://github.com/openmrs/openmrs-core/stargazers)  
   🌍 Mature open-source enterprise electronic medical record platform deployed worldwide. Features an extensible modular architecture with community patient portal modules, FHIR RESTful web services, clinical decision support, and role-based access controls for multidisciplinary healthcare facilities.
 
-- **[Ottehr Patient Portal](https://github.com/masslight/ottehr)** [![GitHub stars](https://img.shields.io/github/stars/masslight/ottehr?style=social&color=white)](https://github.com/masslight/ottehr/stargazers)  
+- **[Ottehr Patient Portal](https://github.com/masslight/ottehr)** [![GitHub_Stars](https://img.shields.io/github/stars/masslight/ottehr?style=social&color=white)](https://github.com/masslight/ottehr/stargazers)  
   🚀 Production-ready, open-source EHR and patient portal stack (MIT) designed for urgent care and virtual health clinics. Features a dedicated patient-facing website for self-scheduling, pre-visit paperwork, check-in queuing, SIP/WebRTC telemedicine video calls, and intake chat. Built on TypeScript, React, and FHIR.
 
-- **[Mere Medical](https://github.com/cfu288/mere-medical)** [![GitHub stars](https://img.shields.io/github/stars/cfu288/mere-medical?style=social&color=white)](https://github.com/cfu288/mere-medical/stargazers)  
+- **[Mere Medical](https://github.com/cfu288/mere-medical)** [![GitHub_Stars](https://img.shields.io/github/stars/cfu288/mere-medical?style=social&color=white)](https://github.com/cfu288/mere-medical/stargazers)  
   📱 Local-first, open-source personal health record (PHR) aggregator built on HL7 FHIR (MIT, AMIA FHIR App Finalist). Uses SMART on FHIR standalone OAuth2 authentication to directly sync health records from Epic MyChart, Cerner, Allscripts, and DrChrono onto the patient's local device without intermediary server storage.
 
-- **[Bahmni Core](https://github.com/Bahmni/bahmni-core)** [![GitHub stars](https://img.shields.io/github/stars/Bahmni/bahmni-core?style=social&color=white)](https://github.com/Bahmni/bahmni-core/stargazers)  
+- **[Bahmni Core](https://github.com/Bahmni/bahmni-core)** [![GitHub_Stars](https://img.shields.io/github/stars/Bahmni/bahmni-core?style=social&color=white)](https://github.com/Bahmni/bahmni-core/stargazers)  
   🏥 Robust hospital information system (HIS) and EMR integrating OpenMRS, Odoo, and OpenELIS. Delivers end-to-end patient management, clinical encounter tracking, laboratory integration, and patient registration with strong HL7/FHIR interoperability.
 
-- **[Canvas Medical Mobile Patient App](https://github.com/canvas-medical/mobile-patient-app)** [![GitHub stars](https://img.shields.io/github/stars/canvas-medical/mobile-patient-app?style=social&color=white)](https://github.com/canvas-medical/mobile-patient-app/stargazers)  
+- **[Canvas Medical Mobile Patient App](https://github.com/canvas-medical/mobile-patient-app)** [![GitHub_Stars](https://img.shields.io/github/stars/canvas-medical/mobile-patient-app?style=social&color=white)](https://github.com/canvas-medical/mobile-patient-app/stargazers)  
   📲 Open-source FHIR-based cross-platform mobile patient portal application (React Native / TypeScript). Enables patients to schedule clinical visits, chat securely with their doctor, view medications and clinical summaries, and handle payments. Easily forkable and brandable.
 
-- **[MyChart Takeout](https://github.com/jmandel/mychart-takeout)** [![GitHub stars](https://img.shields.io/github/stars/jmandel/mychart-takeout?style=social&color=white)](https://github.com/jmandel/mychart-takeout/stargazers)  
+- **[MyChart Takeout](https://github.com/jmandel/mychart-takeout)** [![GitHub_Stars](https://img.shields.io/github/stars/jmandel/mychart-takeout?style=social&color=white)](https://github.com/jmandel/mychart-takeout/stargazers)  
   💾 Client-side open-source utility by Josh Mandel that exports all clinical and personal health data from any Epic MyChart patient portal session directly into standardized, machine-readable JSON/FHIR files—running entirely in the browser without third-party exposure.
 
-- **[Halyos](https://github.com/hms-dbmi/halyos)** [![GitHub stars](https://img.shields.io/github/stars/hms-dbmi/halyos?style=social&color=white)](https://github.com/hms-dbmi/halyos/stargazers)  
+- **[Halyos](https://github.com/hms-dbmi/halyos)** [![GitHub_Stars](https://img.shields.io/github/stars/hms-dbmi/halyos?style=social&color=white)](https://github.com/hms-dbmi/halyos/stargazers)  
   🔬 Open-source SMART on FHIR web application developed at Harvard Medical School DBMI. Redesigns the patient portal experience by delivering rich, interactive longitudinal visualizations of lab results, vitals, and health trends for patients and providers.
 
-- **[Portail Patient](https://github.com/SaamNoLimits/HealthCare)** [![GitHub stars](https://img.shields.io/github/stars/SaamNoLimits/HealthCare?style=social&color=white)](https://github.com/SaamNoLimits/HealthCare/stargazers)  
+- **[Portail Patient](https://github.com/SaamNoLimits/HealthCare)** [![GitHub_Stars](https://img.shields.io/github/stars/SaamNoLimits/HealthCare?style=social&color=white)](https://github.com/SaamNoLimits/HealthCare/stargazers)  
   💻 Modern, accessible patient portal frontend built with Next.js, TypeScript, and Tailwind CSS. Features an interactive dashboard, appointment manager, allergy and medical condition trackers, and responsive mobile-first UI with dark/light themes.
 
-- **[PulsePortal](https://github.com/shads-01/PulsePortal)** [![GitHub stars](https://img.shields.io/github/stars/shads-01/PulsePortal?style=social&color=white)](https://github.com/shads-01/PulsePortal/stargazers)  
+- **[PulsePortal](https://github.com/shads-01/PulsePortal)** [![GitHub_Stars](https://img.shields.io/github/stars/shads-01/PulsePortal?style=social&color=white)](https://github.com/shads-01/PulsePortal/stargazers)  
   🤖 Smart hospital portal featuring AI-assisted patient engagement, integrated Jitsi video teleconsultations, an AI health inquiry bot, automated prescription PDF rendering, room admission tracking, and role-based permissions for doctors, admins, and patients. Built with Laravel and React.
 
 ---
@@ -165,7 +165,7 @@ Contributions, project suggestions, and documentation enhancements are warmly we
 
 1. 🍴 **Fork the Repository**: Click the `Fork` button at the top right of this page.
 2. 🌿 **Create a Feature Branch**: `git checkout -b feature/add-new-portal`
-3. 📝 **Edit the README.md**: Follow the existing format (include product/repo name, verified URL, clear description, pricing details, and star badges where applicable).
+3. 📝 **Edit the README.md**: Follow the existing format (include product/repo name, verified URL, clear description, pricing details, and Stars_Badges where applicable).
 4. 🔍 **Verify Data Quality**: Ensure license terms, links, and pricing quotes are current and accurate.
 5. 🚀 **Submit a Pull Request**: Provide a clear explanation of your additions or changes in your PR description.
 
